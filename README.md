@@ -42,3 +42,5 @@ An auxiliary APP for STEPN provides easy user experience and displays profession
 ## Donation
 - Solona Chain:
   > 9NByf79cnTSCdyCu9Ef6qv8etmu1sQM3sRsk7HuHXSgX
+- ETH & BSC Chain:
+  > 0x00072cB6b3dA14E1930F79b23452019A14b76904
