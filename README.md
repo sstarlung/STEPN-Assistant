@@ -3,7 +3,10 @@ An auxiliary APP for STEPN provides easy user experience and displays profession
 
 本輔助APP基於STEPN APP上提供更簡易的體驗與顯示一些專業資訊
 
-> STEPN Assistant **NEVER AND EVER** modifies anything of official STEPN APP
+## 3 Guarantees
+1. STEPN Assistant **NEVER AND EVER** modifies any data or process in official STEPN APP
+2. STEPN Assistant **NEVER AND EVER** record or save any information from official STEPN APP
+3. STEPN Assistant **NEVER AND EVER** transmit anything to outside
 
 ## Purpose
 - for professional runner:
@@ -35,3 +38,7 @@ An auxiliary APP for STEPN provides easy user experience and displays profession
   - [ ] Pause while poor GPS signal under STEPN APP running
   - [ ] Pause while energy was run out under STEPN APP running
   - [ ] Hint with a local time from UTC in announcement
+
+## Donation
+- Solona Chain:
+  > 9NByf79cnTSCdyCu9Ef6qv8etmu1sQM3sRsk7HuHXSgX
