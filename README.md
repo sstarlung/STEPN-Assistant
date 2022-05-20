@@ -20,23 +20,23 @@ An auxiliary APP for STEPN provides easy user experience and displays profession
 
 ## Roadmap
 #### v1
-  - [x] Alert while player was not walking/running under STEPN APP running (whenever pause or walking)
+  - [x] Alert while player was not walking/running under STEPN APP running
   - [x] Settings including on/off switch and reminder duration
 #### v2
-  - [ ] A floating button for lock/unlock screen
-  - [ ] Keep screen always on
-  - [ ] Alert while moonwalking from STEPN APP status
-  - [ ] Alert while energy was run out under STEPN APP running
+  - [x] A floating button for lock/unlock screen
+  - [x] Keep screen always on
+  - [x] Alert while moonwalking from STEPN APP status
+  - [x] Alert while energy was run out during STEPN APP running
 #### v3
-  - [ ] Alert while player was not walking/running under STEPN APP running (except pause)
+  - [ ] Automatically PAUSE while energy was run out during STEPN APP running
   - [ ] Display running info
+  - [ ] Refine logging system
 #### v4
   - [ ] Alert while poor GPS signal under STEPN APP running
   - [ ] Display GPS info
 #### TBD
   - [ ] Pause automatically while player was not walking/running under STEPN APP running
   - [ ] Pause while poor GPS signal under STEPN APP running
-  - [ ] Pause while energy was run out under STEPN APP running
   - [ ] Hint with a local time from UTC in announcement
 
 ## Donation
